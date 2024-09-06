@@ -1,0 +1,38 @@
+_repo: Beauty-and-the-beast-b-An-old-tale-new-told-with-pictures_74277
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: E. V. B. (Eleanor Vere Boyle)
+    aliases:
+    - Boyle, Eleanor Vere Gordon, Hon.
+    - B., E. V. (Eleanor Vere Boyle)
+    - Boyle, Mrs. Richard Cavendish
+    - Boyle, Richard Cavendish, Mrs.
+    birthdate: 1825
+    deathdate: 1916
+    gutenberg_agent_id: '55461'
+    url: http://www.gutenberg.org/2009/agents/55461
+    wikipedia: https://en.wikipedia.org/wiki/Eleanor_Vere_Boyle
+description: ''
+gutenberg_issued: '2024-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74277'
+language: en
+pgterms:marc904: https://archive.org/details/beauty-and-the-beast-eleanor-vere-boyle/page/n7/mode/2up
+pgterms:marc905: 20240616135604boyle
+pgterms:marc906: '1875'
+pgterms:marc907: GB
+production_note: Alan, Mairi and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bSampson Low, Marston, Low, and Searle, $c1875, pubdate
+  1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+title: 'Beauty and the beast : $b An old tale new-told, with pictures'
+url: http://www.gutenberg.org/ebooks/74277
