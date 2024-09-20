@@ -13,7 +13,12 @@ contributor:
     gutenberg_agent_id: '55461'
     url: http://www.gutenberg.org/2009/agents/55461
     wikipedia: https://en.wikipedia.org/wiki/Eleanor_Vere_Boyle
+covers:
+- cover_type: archival
+  image_path: 74277-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74277#Beauty-and-the-beast-b-An-old-tale-new-told-with-pictures
 gutenberg_issued: '2024-08-18'
 gutenberg_type: Text
 identifiers:
